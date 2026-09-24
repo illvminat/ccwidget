@@ -28,7 +28,7 @@ Woche bedeutet und nicht „so viel der Woche ist verbraucht“. Sie heißt jetz
 `Diese Woche verbraucht`. Von dieser Sorte gibt es mit Sicherheit mehr.
 
 Alle 112 Strings stehen in
-[`Docs/localization-review.md`](https://github.com/davidkremlev/ccwidget/blob/main/Docs/localization-review.md), zusammen mit
+[`Docs/localization-review.md`](https://github.com/illvminat/ccwidget/blob/main/Docs/localization-review.md), zusammen mit
 dem Kontext, der die Wortwahl beeinflusst — zum Beispiel, dass alle drei
 Balken in dieselbe Richtung wachsen und dass in einer Kachel von 338 Punkten
 Breite nach etwa 22 Zeichen abgeschnitten wird.

@@ -1,6 +1,6 @@
 # ccwidget — Usage Widget for Claude Code
 
-[![Build](https://github.com/davidkremlev/ccwidget/actions/workflows/build.yml/badge.svg)](https://github.com/davidkremlev/ccwidget/actions/workflows/build.yml)
+[![Build](https://github.com/illvminat/ccwidget/actions/workflows/build.yml/badge.svg)](https://github.com/illvminat/ccwidget/actions/workflows/build.yml)
 
 
 A macOS desktop widget showing how much of your Claude subscription you have
@@ -177,7 +177,7 @@ that is worth an issue: you would be the first to look.
 ## Installing
 
 ```sh
-brew install --cask davidkremlev/tap/ccwidget
+brew install --cask illvminat/tap/ccwidget
 ```
 
 Or download **[the disk image](../../releases/latest)** and drag the app to
@@ -258,7 +258,7 @@ from `project.yml`.
 
 ```sh
 brew install xcodegen
-git clone https://github.com/davidkremlev/ccwidget.git
+git clone https://github.com/illvminat/ccwidget.git
 cd ccwidget
 ./Scripts/reinstall.sh
 ```
